@@ -5,22 +5,26 @@ A web development project that utilizes the OpenWeatherMap API to fetch and disp
 ## ﻿Project Overview
 This project aims to provide a simple and intuitive way to check the current weather conditions for your location. Using the OpenWeatherMap API, the project fetches the latest weather data and displays it in a user-friendly format, including temperature, weather conditions.
 
-﻿# Features
-- Fetches current weather conditions from the OpenWeatherMap API
-
-- Displays temperature, humidity, wind speed, and other relevant weather data
-
- - Allows users to view the current weather conditions for their location
+﻿#Features
+• Fetches current weather conditions from the OpenWeatherMap API
+• Displays temperature, humidity, wind speed, and other relevant weather data
+• Allows users to view the current weather conditions for their location
 
 
 ## Technologies Used
-•HTML
-•CSS
-•JavaScript
-•Node.js
-•Express.js
-•Git
-•OpenWeatherMap API
+• HTML
+
+• CSS
+
+• JavaScript
+
+• Node.js
+
+• Express.js
+
+• Git
+
+• OpenWeatherMap API
 
 ﻿## Getting Started
 1.Clone the repository: git clone https://github.com/StamatisKamisakis/API-Project.git
