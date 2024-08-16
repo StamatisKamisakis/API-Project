@@ -10,7 +10,7 @@ This project aims to provide a simple and intuitive way to check the current wea
  
 • Fetches current weather conditions from the OpenWeatherMap API
 
-• Displays temperature, humidity, wind speed, and other relevant weather data
+• Displays weather conditions and other relevant weather data
 
 • Allows users to view the current weather conditions for their location
 
