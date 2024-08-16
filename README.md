@@ -6,11 +6,9 @@ This project aims to provide a simple and intuitive way to check the current wea
 
 ## Features
  
-• Fetches current weather conditions from the OpenWeatherMap API
-
-• Displays weather conditions and other relevant weather data
-
-• Allows users to view the current weather conditions for their location
+- Fetches current weather conditions from the OpenWeatherMap API.
+- Displays weather conditions and other relevant weather data.
+- Allows users to view the current weather conditions for their location.
 
 ## Technologies Used
 • HTML
