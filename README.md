@@ -1,4 +1,4 @@
-﻿## API-Project
+﻿# API-Project
 A web development project that utilizes the OpenWeatherMap API to fetch and display the current weather conditions for your location.
 
 ## ﻿Project Overview
