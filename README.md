@@ -24,11 +24,11 @@ This project aims to provide a simple and intuitive way to check the current wea
 
 2.Install and start the project:
 
-    • npm install
+    1. npm install
    
-    • npm start
+    2. npm start
    
-    • nodemon index.mjs (or node index.mjs, depending on your project setup)   
+    3. nodemon index.mjs (or node index.mjs, depending on your project setup)   
 
 3.Viewing the Weather App
  To view the weather app, open your browser and navigate to: http://localhost:3000/
