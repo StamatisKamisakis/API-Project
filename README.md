@@ -39,11 +39,11 @@ This project aims to provide a simple and intuitive way to check the current wea
     • nodemon index.mjs (or node index.mjs, depending on your project setup)   
 
 3.Viewing the Weather App
-To view the weather app, open your browser and navigate to: http://localhost:3000/
+ To view the weather app, open your browser and navigate to: http://localhost:3000/
 
-Enter your location to view the current weather conditions.
+ Enter your location to view the current weather conditions.
 
-This adds a clear instruction on how to access the app and what to do next.
+ This adds a clear instruction on how to access the app and what to do next.
 
 ## API Information
 •API used: OpenWeatherMap API
