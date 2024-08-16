@@ -11,34 +11,52 @@ This project aims to provide a simple and intuitive way to check the current wea
 ﻿Features
  
 •Fetches current weather conditions from the OpenWeatherMap API
+
 •Displays temperature, humidity, wind speed, and other relevant weather data
+
 •Allows users to view the current weather conditions for their location
+
 
 Technologies Used
  
 •HTML
+
 •CSS
+
 •JavaScript
+
 •Node.js
+
 •Express.js
+
 •Git
+
 •OpenWeatherMap API
 
 ﻿Getting Started
 
 1.Clone the repository: git clone https://github.com/StamatisKamisakis/API-Project.git
+
 2. install and start the project:
+   
     • npm install
+   
     • npm start
+   
     • nodemon index.mjs (or node index.mjs, depending on your project setup)
+   
 3.Viewing the Weather App
+
 To view the weather app, open your browser and navigate to: http://localhost:3000/
+
 Enter your location to view the current weather conditions.
+
 This adds a clear instruction on how to access the app and what to do next.
 
 ﻿API Information
  
 •API used: OpenWeatherMap API
+
 •API endpoint: https://api.openweathermap.org/data/2.5/weather?q={YourCity}&appid={Your_API_Key}
 
 Contributing
