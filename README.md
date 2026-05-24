@@ -1,46 +1,38 @@
-﻿# API-Project
-A web development project that utilizes the OpenWeatherMap API to fetch and display the current weather conditions for your location.
+# 🌤️ API-Project
 
-## ﻿Project Overview
-This project aims to provide a simple and intuitive way to check the current weather conditions for your location. Using the OpenWeatherMap API, the project fetches the latest weather data and displays it in a user-friendly format, including temperature, weather conditions.
+A web development project that utilizes the OpenWeatherMap API to fetch and display the current weather conditions for any location.
 
-## Features
- 
+## 🌐 Live Demo
+
+**Visit the live website:** [https://stamatis-weather.onrender.com](https://stamatis-weather.onrender.com)
+
+> 💡 **Note on Free Tier Hosting:** This application is hosted on Render's free plan. If the website has been inactive, the server may take around **30-40 seconds** to wake up and load the initial page. Thank you for your patience!
+
+---
+
+## 📋 Project Overview
+
+This project aims to provide a simple and intuitive way to check the current weather conditions for your location. Using the OpenWeatherMap API, the project fetches the latest weather data and displays it in a user-friendly format, including temperature and weather conditions.
+
+## ✨ Features
+
 - Fetches current weather conditions from the OpenWeatherMap API.
 - Displays weather conditions and other relevant weather data.
-- Allows users to view the current weather conditions for their location.
+- Allows users to view the current weather conditions for their chosen location.
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- Git
-- OpenWeatherMap API
+## 🛠️ Technologies Used
 
-## Getting Started
-1.Clone the repository: git clone https://github.com/StamatisKamisakis/API-Project.git
+- **Frontend:** HTML, CSS, JavaScript, EJS (Embedded JavaScript)
+- **Backend:** Node.js, Express.js
+- **HTTP Client:** Axios
+- **API:** OpenWeatherMap API
+- **Version Control:** Git
 
-2.Install and start the project:
+## 🔑 API Information
 
-    1. npm install
-   
-    2. npm start
-   
-    3. nodemon index.mjs (or node index.mjs, depending on your project setup)   
+- **API Used:** OpenWeatherMap API
+- **API Endpoint:** `https://api.openweathermap.org/data/2.5/weather?q={YourCity}&appid={Your_API_Key}`
 
-3.Viewing the Weather App
- To view the weather app, open your browser and navigate to: http://localhost:3000/
+## 🤝 Contributing
 
- Enter your location to view the current weather conditions.
-
- This adds a clear instruction on how to access the app and what to do next.
-
-## API Information
-- API used: OpenWeatherMap API
-
-- API endpoint: https://api.openweathermap.org/data/2.5/weather?q={YourCity}&appid={Your_API_Key}
-
-## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
