@@ -7,7 +7,7 @@ import axios from 'axios';
 const app = express();
 
 // Set the port number for the server
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // Use the Express.js static middleware to serve static files from the public directory
 app.use(express.static('public'));
@@ -20,7 +20,7 @@ app.get('/weather', async (req, res) => {
   // Get the city name from the query string
   const city = req.query.city;
   // Set the API key for the OpenWeatherMap API
-  const apiKey = '607a5cd4fe2bfd5234cc5eabf0350a17';
+  const apiKey = process.env.WEATHER_API_KEY || '607a5cd4fe2bfd5234cc5eabf0350a17';
   // Construct the API URL for the OpenWeatherMap API
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
